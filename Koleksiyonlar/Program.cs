@@ -25,7 +25,7 @@ namespace Koleksiyonlar
             isimler2.Add("İlke");
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
-            isimler2.
+            
 
 
         }
